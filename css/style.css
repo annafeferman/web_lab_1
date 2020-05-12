@@ -47,3 +47,13 @@ footer {
 a {
     color: darkgreen;
 }
+
+table {
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
+
+table, tr, td {
+    border: 1px solid black;
+}
